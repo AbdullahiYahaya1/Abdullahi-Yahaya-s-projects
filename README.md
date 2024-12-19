@@ -1,1 +1,1 @@
-This Repository holds all of the code and queries from my Portfolio Projects.
+This Repository holds all of the code, queries and visuals from my Portfolio Projects.
